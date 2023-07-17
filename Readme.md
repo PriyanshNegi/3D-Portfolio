@@ -37,5 +37,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to fork this repository and customize it to build your own impressive 3D portfolio website!
 
 If you have any questions or suggestions, please feel free to open an issue or contact me.
-
-⭐ Special credits to **JSM Masterclass** - https://jsmastery.pro/masterclass for helping me build this project. 

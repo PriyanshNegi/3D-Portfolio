@@ -47,12 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React.jsand
-        Three.js. I'm also familiar with ML as a part of my interest.
-        I had previously founded a SaaS based startup. I like making content
-        and building & sharing things in public. Always up for Open source contribution
-        and collaboration.
+        I am an enthusiastic software developer with a strong foundation in computer fundamentals. I have worked on projects addressing real-world challenges and possess a keen interest in Machine Learning. I like understanding the underlying intricacies and architectures. Committed and diligent, I have been actively involved in projects and continuous learning throughout my college journey. I am looking for an opportunity to work in a challenging environment to prove my skills and utilize my knowledge and intelligence in the growth of the organization.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

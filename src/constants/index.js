@@ -61,6 +61,22 @@ import {
   
   const technologies = [
     {
+      name: "figma",
+      icon: figma,
+    },
+    {
+      name: "MongoDB",
+      icon: mongodb,
+    },
+    {
+      name: "git",
+      icon: git,
+    },
+    {
+      name: "JavaScript",
+      icon: javascript,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -69,48 +85,32 @@ import {
       icon: css,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
     },
     {
       name: "Three JS",
       icon: threejs,
     },
     {
-      name: "git",
-      icon: git,
+      name: "Redux Toolkit",
+      icon: redux,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "Node JS",
+      icon: nodejs,
+    },
+    {
+      name: "Tailwind CSS",
+      icon: tailwind,
     },
     {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "TypeScript",
+      icon: typescript,
     },
   ];
   
@@ -147,7 +147,7 @@ import {
       company_name: "Startic Field",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Oct 2022 - March 2023",
+      date: "Jul 2022 - March 2023",
       points: [
       "Created an application suite of gamified task management for startups and LP portfolio startup investment tracking.",
       "Led focussed product development, enhancing user experience and satisfaction.",
@@ -204,62 +204,66 @@ import {
         "Volt is a comprehensive portfolio management software which offers a holistic solution for managing startup portfolios. Seamlessly manage your portfolio, track investments, and analyze performance all in one place with Volt's latest industry standards and best practices. Say goodbye to inefficiencies, embrace Volt!",
       tags: [
         {
-          name: "react",
+          name: "web dev",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "data visualization",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "software engineering",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/StarticField",
     },
     {
-      name: "PredCo Prototype",
+      name: "PredCo",
       description:
         "Web application that processes real-time data coming from IoT sensors installed in various industries. It serves as a powerful tool for Predictive Maintenance, enabling the detection of potential issues and triggering alerts. By optimizing scheduled maintenance activities, the application helps companies achieve significant cost savings.",
       tags: [
         {
-          name: "react",
+          name: "internet of things",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "elastic search",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "kibana",
           color: "pink-text-gradient",
+        },
+        {
+          name: "aws-ec2",
+          color: "orange-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/PriyanshNegi/PredCo",
     },
     {
-      name: "StarticField",
+      name: "Prompt-X",
       description:
-        "StarticField's community website designed to cater to community events, providing seamless event registration and account creation functionalities. It also features a user-friendly dashboard for community members, empowering them to effortlessly track their progress, access valuable resources, and stay connected.",
+        "Prompt-X is an undergoing project designed to train language models and enhance prompt engineering. It will offer productivity analytics, personalized recommendations and insights for Chat GPT users. With its focus on training LLM models, Prompt-X is a powerful tool for optimizing workflows and advancing natural language understanding. ",
       tags: [
         {
-          name: "nextjs",
+          name: "machine learning",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "web dev",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "prompt engineering",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/PriyanshNegi/Prompt-X-Website",
     },
   ];
   
